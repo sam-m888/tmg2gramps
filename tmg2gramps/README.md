@@ -1,11 +1,13 @@
                      tmg2gramps.pl
 
-PURPOSE 
+PURPOSE
+=======
 Reads a TMG (The Master Genealogist) V6 database and converts what
 it can to a Gramps V2.2.6 xml file. This file can then be imported into
 Gramps, V2.2.6 or higher.
 
-USAGE 
+USAGE
+====
 Unpack the program whereever suits you. Make sure all data you want to keep
 is backed up, just in case.
 
@@ -24,21 +26,22 @@ connectors. How to do this depends on the OS and distribution you use.
 
 The example below makes the following assumptions:
 
-  name of TMG project: smith  
-  home directory: /home/asmith
-  directory under home holding tmg database files: tmgdata
-  name of MySQL database to use: test
-  username for MySQL access: asmith
-  password for MySQL access: password
-  name of destination Gramps xml file: smith.xml
+    name of TMG project: smith  
+    home directory: /home/asmith
+    directory under home holding tmg database files: tmgdata
+    name of MySQL database to use: test
+    username for MySQL access: asmith
+    password for MySQL access: password
+    name of destination Gramps xml file: smith.xml
 
 From the directory where you unpacked the tmg2gramps program, run it as
 follows:
 
- tmg2gramps.pl /home/asmith/tmgdata smith smith.xml test asmith password
+    tmg2gramps.pl /home/asmith/tmgdata smith smith.xml test asmith password
 
 
 WHY MYSQL?
+==========
 Initial runs of this program did not use an intermediate database system. On
 my small, 10 person, test database, this worked fine. I knew it would run
 slowly on a real TMG project, but my first attempt to transfer a real project
@@ -49,7 +52,8 @@ Why did I choose MySQL? Because I already had it installed and running, and
 so it was convenient at the time. This program should work with any other
 DBI compatible database server, with minor changes to the source.
 
-KNOWN PROBLEMS 
+KNOWN PROBLEMS
+==============
 The main problem for anyone using this program is that I wrote it to
 transfer my database and hence ignored the things I wasn't interested in
 transferring (DNA being the major thing in this category). Also in entering
@@ -84,6 +88,7 @@ Make sure you type on the command line the correct case (upper or lower) for
 your project name.
 
 SUPPORT
+=======
 I am not able to offer any support for this program. If you have problems, I
 suggest you consult a Perl programmer to assist. If the Perl programmer
 finds it hard going, don't be too critical of them. This program is not as
@@ -99,7 +104,8 @@ understanding one of the poorly documented parts of the code, I am willing
 to try to assist. In this case if you want a reply to your email, please
 take care that it does not look like spam!
 
-COPYRIGHT 
+COPYRIGHT
+=========
 TMG is copyright by Wholly Genes (http://www.whollygenes.com/). Please see
 their web site for details. Gramps copyright details can be found at the
 Gramps web site (http://www.gramps-project.org/). tmg2gramps.pl was written
@@ -111,7 +117,8 @@ there is no support or warranty of any sort, implied or otherwise.
 
 
 REFERENCES
-http://www.whollygenes.com/
-http://www.gramps-project.org/
-http://www.cohsoft.com.au/tmg2gramps/
+==========
+* http://www.whollygenes.com/
+* http://www.gramps-project.org/
+* http://www.cohsoft.com.au/tmg2gramps/
 
