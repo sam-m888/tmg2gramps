@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="93.636cm" height="66.900cm" viewBox="-46.413 0.150 47.223 67.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="-31.800" y="2.250" width="5.750" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-31.800" y="2.250" width="5.750" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-28.925" y="2.893"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;$&gt;&gt;</text>
+<text x="-28.925" y="3.893"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+People</text>
+<rect x="-31.800" y="4.450" width="5.750" height="23.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-31.800" y="4.450" width="5.750" height="23.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-31.650" y="5.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per_no: I</text>
+<text x="-31.650" y="6.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++father: I</text>
+<text x="-31.650" y="6.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++mother: I</text>
+<text x="-31.650" y="7.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++last_edit: D</text>
+<text x="-31.650" y="8.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I</text>
+<text x="-31.650" y="9.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ref_id: I</text>
+<text x="-31.650" y="10.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++reference: C12</text>
+<text x="-31.650" y="10.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++spoulast: I4</text>
+<text x="-31.650" y="11.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++scbuff: C10</text>
+<text x="-31.650" y="12.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++pbirth: c30</text>
+<text x="-31.650" y="13.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++pdeath: C30</text>
+<text x="-31.650" y="14.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++relate: I4</text>
+<text x="-31.650" y="14.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++relatefo: I4</text>
+<text x="-31.650" y="15.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-31.650" y="16.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sex: C1</text>
+<text x="-31.650" y="17.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++living: C1</text>
+<text x="-31.650" y="18.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++birthorder: C2</text>
+<text x="-31.650" y="18.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++multibirth: C1</text>
+<text x="-31.650" y="19.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++adopted: C1</text>
+<text x="-31.650" y="20.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ance_int: C1</text>
+<text x="-31.650" y="21.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++desc_int: C1</text>
+<text x="-31.650" y="22.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++flag1: C1</text>
+<text x="-31.650" y="22.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++flag2: C1</text>
+<text x="-31.650" y="23.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++flag3: C1</text>
+<text x="-31.650" y="24.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++flag4: C1</text>
+<text x="-31.650" y="25.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++flag5: C1</text>
+<text x="-31.650" y="26.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++flag6: C1</text>
+<text x="-31.650" y="26.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++flag7: C1</text>
+<text x="-31.650" y="27.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++flag8: C1</text>
+<rect x="21.817" y="46.128" width="7.322" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.817" y="46.128" width="7.322" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="25.478" y="46.770"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;A&gt;&gt;</text>
+<text x="25.478" y="47.770"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Source Category</text>
+<rect x="21.817" y="48.328" width="7.322" height="12.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.817" y="48.328" width="7.322" height="12.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="21.967" y="49.228"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ruleset: N1</text>
+<text x="21.967" y="50.028"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="21.967" y="50.828"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sourtype: I4</text>
+<text x="21.967" y="51.628"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++trans_to: I4</text>
+<text x="21.967" y="52.428"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++name: C66</text>
+<text x="21.967" y="53.228"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++foot: M4</text>
+<text x="21.967" y="54.028"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++short: M4</text>
+<text x="21.967" y="54.828"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++bib: M4</text>
+<text x="21.967" y="55.628"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++custfoot: m4</text>
+<text x="21.967" y="56.428"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++custshort: m4</text>
+<text x="21.967" y="57.228"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++custbib: M4</text>
+<text x="21.967" y="58.028"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sameas: I4</text>
+<text x="21.967" y="58.828"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sameasmsg: i4</text>
+<text x="21.967" y="59.628"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++primary: L1</text>
+<text x="21.967" y="60.428"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<rect x="40.344" y="16.955" width="5.618" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.344" y="16.955" width="5.618" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="43.153" y="17.598"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;B&gt;&gt;</text>
+<text x="43.153" y="18.598"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Focus Group</text>
+<rect x="40.344" y="19.155" width="5.618" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.344" y="19.155" width="5.618" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="40.234" y="13.504" width="5.848" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.234" y="13.504" width="5.848" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="43.158" y="14.146"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;C&gt;&gt;</text>
+<text x="43.158" y="15.146"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Custom flags</text>
+<rect x="40.234" y="15.704" width="5.848" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.234" y="15.704" width="5.848" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="41.297" y="10.159" width="4.500" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="41.297" y="10.159" width="4.500" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="43.547" y="10.802"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;D&gt;&gt;</text>
+<text x="43.547" y="11.802"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Data Sets</text>
+<rect x="41.297" y="12.359" width="4.500" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="41.297" y="12.359" width="4.500" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="43.007" y="3.954" width="2.950" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="43.007" y="3.954" width="2.950" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="44.482" y="4.596"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;DNA&gt;&gt;</text>
+<text x="44.482" y="5.596"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+DNA</text>
+<rect x="43.007" y="6.154" width="2.950" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="43.007" y="6.154" width="2.950" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="-18.200" y="5.450" width="5.400" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-18.200" y="5.450" width="5.400" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-15.500" y="6.092"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;E&gt;&gt;</text>
+<text x="-15.500" y="7.092"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Witnesses</text>
+<rect x="-18.200" y="7.650" width="5.400" height="8.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-18.200" y="7.650" width="5.400" height="8.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-18.050" y="8.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++eper: I4</text>
+<text x="-18.050" y="9.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++gnum: I4</text>
+<text x="-18.050" y="10.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++primary: L1</text>
+<text x="-18.050" y="10.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++wsentence: M4</text>
+<text x="-18.050" y="11.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-18.050" y="12.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++role: C20</text>
+<text x="-18.050" y="13.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="-18.050" y="14.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++namerec: I4</text>
+<text x="-18.050" y="14.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++witmemo: M4</text>
+<text x="-18.050" y="15.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sequence: I4</text>
+<rect x="-24.945" y="27.346" width="5.578" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-24.945" y="27.346" width="5.578" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-22.156" y="27.989"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;F&gt;&gt;</text>
+<text x="-22.156" y="28.989"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Parent/Child</text>
+<rect x="-24.945" y="29.546" width="5.578" height="8.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-24.945" y="29.546" width="5.578" height="8.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-24.795" y="30.446"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++primary: L1</text>
+<text x="-24.795" y="31.246"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++child: I4</text>
+<text x="-24.795" y="32.046"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++parent: I4</text>
+<text x="-24.795" y="32.846"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ptype: I4</text>
+<text x="-24.795" y="33.646"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++pnote: M4</text>
+<text x="-24.795" y="34.446"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++psure: C1</text>
+<text x="-24.795" y="35.246"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++fsure: C1</text>
+<text x="-24.795" y="36.046"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="-24.795" y="36.846"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-24.795" y="37.646"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<rect x="-15.061" y="16.135" width="5.050" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-15.061" y="16.135" width="5.050" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-12.536" y="16.778"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;G&gt;&gt;</text>
+<text x="-12.536" y="17.778"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Events</text>
+<rect x="-15.061" y="18.335" width="5.050" height="15.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-15.061" y="18.335" width="5.050" height="15.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-14.911" y="19.235"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++etype: I4</text>
+<text x="-14.911" y="20.035"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="-14.911" y="20.835"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per1show: L1</text>
+<text x="-14.911" y="21.635"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per2show: L1</text>
+<text x="-14.911" y="22.435"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per1: I4</text>
+<text x="-14.911" y="23.235"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per2: I4</text>
+<text x="-14.911" y="24.035"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++edate: C30</text>
+<text x="-14.911" y="24.835"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++placenum: I4</text>
+<text x="-14.911" y="25.635"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++efoot: M4</text>
+<text x="-14.911" y="26.435"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ensure: C1</text>
+<text x="-14.911" y="27.235"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++essure: C1</text>
+<text x="-14.911" y="28.035"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++edsure: C1</text>
+<text x="-14.911" y="28.835"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++epsure: C1</text>
+<text x="-14.911" y="29.635"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++efsure: C1</text>
+<text x="-14.911" y="30.435"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="-14.911" y="31.235"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sentence: M4</text>
+<text x="-14.911" y="32.035"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++srtdate: C30</text>
+<text x="-14.911" y="32.835"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-14.911" y="33.635"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ref_id: I4</text>
+<rect x="40.200" y="20.750" width="5.750" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.200" y="20.750" width="5.750" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="43.075" y="21.393"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;I&gt;&gt;</text>
+<text x="43.075" y="22.393"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Exhibits</text>
+<rect x="40.200" y="22.950" width="5.750" height="25.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.200" y="22.950" width="5.750" height="25.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="40.350" y="23.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++idexhibit: I4</text>
+<text x="40.350" y="24.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++idref: I4</text>
+<text x="40.350" y="25.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rltype: C1</text>
+<text x="40.350" y="26.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlnum: I4</text>
+<text x="40.350" y="27.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++xname: C30</text>
+<text x="40.350" y="27.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++vfilename: M4</text>
+<text x="40.350" y="28.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ifilename: M4</text>
+<text x="40.350" y="29.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++afilename: M4</text>
+<text x="40.350" y="30.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tfilename: M4</text>
+<text x="40.350" y="31.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++reference: C25</text>
+<text x="40.350" y="31.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++text: M4</text>
+<text x="40.350" y="32.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++image: M4</text>
+<text x="40.350" y="33.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++audio: M4</text>
+<text x="40.350" y="34.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++descript: M4</text>
+<text x="40.350" y="35.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlper1: I4</text>
+<text x="40.350" y="35.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlper2: I4</text>
+<text x="40.350" y="36.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlgtype: I4</text>
+<text x="40.350" y="37.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ole_object: G4</text>
+<text x="40.350" y="38.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++primary: L1</text>
+<text x="40.350" y="39.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++video: M4</text>
+<text x="40.350" y="39.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++property: M4</text>
+<text x="40.350" y="40.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="40.350" y="41.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="40.350" y="42.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_person: I4</text>
+<text x="40.350" y="43.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_event: I4</text>
+<text x="40.350" y="43.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_source: I4</text>
+<text x="40.350" y="44.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_repos: I4</text>
+<text x="40.350" y="45.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++thumb: M4</text>
+<text x="40.350" y="46.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_cit: I4</text>
+<text x="40.350" y="47.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_place: I4</text>
+<text x="40.350" y="47.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++caption: M4</text>
+<text x="40.350" y="48.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sortexh: I4</text>
+<rect x="40.220" y="7.023" width="6.593" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.220" y="7.023" width="6.593" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="43.516" y="7.665"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;K&gt;&gt;</text>
+<text x="43.516" y="8.665"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Timeline Locks</text>
+<rect x="40.220" y="9.223" width="6.593" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="40.220" y="9.223" width="6.593" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="-43.769" y="2.006" width="6.799" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-43.769" y="2.006" width="6.799" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-40.370" y="2.648"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;L&gt;&gt;</text>
+<text x="-40.370" y="3.648"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Research Tasks</text>
+<rect x="-43.769" y="4.206" width="6.799" height="18.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-43.769" y="4.206" width="6.799" height="18.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-43.619" y="5.106"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rltype: C1</text>
+<text x="-43.619" y="5.906"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlnum: I4</text>
+<text x="-43.619" y="6.706"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlper1: I4</text>
+<text x="-43.619" y="7.506"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlper2: I4</text>
+<text x="-43.619" y="8.306"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlgtype: I4</text>
+<text x="-43.619" y="9.106"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++task: M4</text>
+<text x="-43.619" y="9.906"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rledited: C11</text>
+<text x="-43.619" y="10.706"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++designed: C11</text>
+<text x="-43.619" y="11.506"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++begun: C11</text>
+<text x="-43.619" y="12.306"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++progress: C11</text>
+<text x="-43.619" y="13.106"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++completed: C11</text>
+<text x="-43.619" y="13.906"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++planned: C11</text>
+<text x="-43.619" y="14.706"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++expenses: N14</text>
+<text x="-43.619" y="15.506"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++comments: M4</text>
+<text x="-43.619" y="16.306"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlnote: M4</text>
+<text x="-43.619" y="17.106"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++keywords: M4</text>
+<text x="-43.619" y="17.906"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="-43.619" y="18.706"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_person: I4</text>
+<text x="-43.619" y="19.506"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_event: I4</text>
+<text x="-43.619" y="20.306"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_source: I4</text>
+<text x="-43.619" y="21.106"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id_repos: I4</text>
+<text x="-43.619" y="21.906"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-43.619" y="22.706"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++reference: C30</text>
+<rect x="5.450" y="40.600" width="5.750" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.450" y="40.600" width="5.750" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.325" y="41.242"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;M&gt;&gt;</text>
+<text x="8.325" y="42.242"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Sources</text>
+<rect x="5.450" y="42.800" width="5.750" height="24.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.450" y="42.800" width="5.750" height="24.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.600" y="43.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++mactive: L1</text>
+<text x="5.600" y="44.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++majnum: I4</text>
+<text x="5.600" y="45.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ref_id: I4</text>
+<text x="5.600" y="46.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++abbrev: C50</text>
+<text x="5.600" y="46.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++defsure: C1</text>
+<text x="5.600" y="47.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++title: M4</text>
+<text x="5.600" y="48.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: N3</text>
+<text x="5.600" y="49.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recorder: N2</text>
+<text x="5.600" y="50.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++media: N2</text>
+<text x="5.600" y="50.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++fidelity: N2</text>
+<text x="5.600" y="51.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++indexed: N1</text>
+<text x="5.600" y="52.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++status: N2</text>
+<text x="5.600" y="53.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++text: M4</text>
+<text x="5.600" y="54.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sperno: I4</text>
+<text x="5.600" y="54.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ispicked: L1</text>
+<text x="5.600" y="55.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++info: M4</text>
+<text x="5.600" y="56.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++fform: M4</text>
+<text x="5.600" y="57.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sform: M4</text>
+<text x="5.600" y="58.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++bform: M4</text>
+<text x="5.600" y="58.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++cited: L1</text>
+<text x="5.600" y="59.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ibidtype: N1</text>
+<text x="5.600" y="60.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++subjectid: I4</text>
+<text x="5.600" y="61.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++compilerid: I4</text>
+<text x="5.600" y="62.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++editorid: I4</text>
+<text x="5.600" y="62.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sperno2</text>
+<text x="5.600" y="63.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uncitedfld: M4</text>
+<text x="5.600" y="64.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++custtype: I4</text>
+<text x="5.600" y="65.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++firstcd: M4</text>
+<text x="5.600" y="66.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="5.600" y="66.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<rect x="-6.850" y="5.950" width="6.100" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-6.850" y="5.950" width="6.100" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-3.800" y="6.593"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;N&gt;&gt;</text>
+<text x="-3.800" y="7.593"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Names</text>
+<rect x="-6.850" y="8.150" width="6.100" height="17.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-6.850" y="8.150" width="6.100" height="17.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-6.700" y="9.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++nper: I4</text>
+<text x="-6.700" y="9.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++altype: I4</text>
+<text x="-6.700" y="10.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ispicked: L1</text>
+<text x="-6.700" y="11.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++infs: L1</text>
+<text x="-6.700" y="12.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++infg: L1</text>
+<text x="-6.700" y="13.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++primary: L1</text>
+<text x="-6.700" y="13.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++nsure: C1</text>
+<text x="-6.700" y="14.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++fsure: C1</text>
+<text x="-6.700" y="15.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++nnote: M4</text>
+<text x="-6.700" y="16.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="-6.700" y="17.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sentence: M4</text>
+<text x="-6.700" y="17.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ndate: C30</text>
+<text x="-6.700" y="18.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++srtdate: C30</text>
+<text x="-6.700" y="19.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsure: C1</text>
+<text x="-6.700" y="20.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="-6.700" y="21.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-6.700" y="21.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++srnamesort: C70</text>
+<text x="-6.700" y="22.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++gvnamesrt: C70</text>
+<text x="-6.700" y="23.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++styleid: I4</text>
+<text x="-6.700" y="24.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++surid: I4</text>
+<text x="-6.700" y="25.050"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++givid: I4</text>
+<text x="-6.700" y="25.850"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++srnamedisp: C70</text>
+<rect x="11.328" y="12.841" width="7.350" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="11.328" y="12.841" width="7.350" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.003" y="13.484"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;ND&gt;&gt;</text>
+<text x="15.003" y="14.484"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Name Dictionary</text>
+<rect x="11.328" y="15.041" width="7.350" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="11.328" y="15.041" width="7.350" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="11.478" y="15.941"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uid: I4</text>
+<text x="11.478" y="16.741"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++value: M4</text>
+<text x="11.478" y="17.541"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sdx: C4</text>
+<text x="11.478" y="18.341"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<rect x="20.066" y="4.465" width="6.989" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.066" y="4.465" width="6.989" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="23.560" y="5.107"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;NPT&gt;&gt;</text>
+<text x="23.560" y="6.107"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Name Part Type</text>
+<rect x="20.066" y="6.665" width="6.989" height="6.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="20.066" y="6.665" width="6.989" height="6.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="20.216" y="7.565"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++template: C30</text>
+<text x="20.216" y="8.365"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id: I4</text>
+<text x="20.216" y="9.165"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++value: C100</text>
+<text x="20.216" y="9.965"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++system: L1</text>
+<text x="20.216" y="10.765"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: I4</text>
+<text x="20.216" y="11.565"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++shortvalue: C20</text>
+<text x="20.216" y="12.365"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="20.216" y="13.165"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<rect x="8.084" y="2.364" width="7.368" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="8.084" y="2.364" width="7.368" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="11.768" y="3.006"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;NPV&gt;&gt;</text>
+<text x="11.768" y="4.006"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Name Part Value</text>
+<rect x="8.084" y="4.564" width="7.368" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="8.084" y="4.564" width="7.368" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.234" y="5.464"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="8.234" y="6.264"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uid: I4</text>
+<text x="8.234" y="7.064"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: I4</text>
+<text x="8.234" y="7.864"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id: I4</text>
+<text x="8.234" y="8.664"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="8.234" y="9.464"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<rect x="41.120" y="0.544" width="6.053" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="41.120" y="0.544" width="6.053" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="44.147" y="1.186"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;O&gt;&gt;</text>
+<text x="44.147" y="2.186"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Focus Groups</text>
+<rect x="41.120" y="2.744" width="6.053" height="0.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="41.120" y="2.744" width="6.053" height="0.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="-28.388" y="40.773" width="5.750" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-28.388" y="40.773" width="5.750" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-25.513" y="41.416"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;P&gt;&gt;</text>
+<text x="-25.513" y="42.416"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Places</text>
+<rect x="-28.388" y="42.973" width="5.750" height="6.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-28.388" y="42.973" width="5.750" height="6.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-28.238" y="43.873"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="-28.238" y="44.673"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++styleid: I4</text>
+<text x="-28.238" y="45.473"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="-28.238" y="46.273"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-28.238" y="47.073"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++startyear: C4</text>
+<text x="-28.238" y="47.873"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++endyear: C4</text>
+<text x="-28.238" y="48.673"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++comment: M4</text>
+<text x="-28.238" y="49.473"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++shortplace: M4</text>
+<rect x="-41.150" y="53.173" width="7.197" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-41.150" y="53.173" width="7.197" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-37.551" y="53.815"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;PD&gt;&gt;</text>
+<text x="-37.551" y="54.815"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Place Dictionary</text>
+<rect x="-41.150" y="55.373" width="7.197" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-41.150" y="55.373" width="7.197" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-41.000" y="56.273"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uid: I4</text>
+<text x="-41.000" y="57.073"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++value: M4</text>
+<text x="-41.000" y="57.873"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sdx: C4</text>
+<text x="-41.000" y="58.673"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<rect x="-28.876" y="52.922" width="7.216" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-28.876" y="52.922" width="7.216" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-25.269" y="53.565"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;PPV&gt;&gt;</text>
+<text x="-25.269" y="54.565"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Place Part Value</text>
+<rect x="-28.876" y="55.122" width="7.216" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-28.876" y="55.122" width="7.216" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-28.726" y="56.022"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="-28.726" y="56.822"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uid: I4</text>
+<text x="-28.726" y="57.622"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: I4</text>
+<text x="-28.726" y="58.422"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id: I4</text>
+<text x="-28.726" y="59.222"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-28.726" y="60.022"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<rect x="-40.966" y="43.044" width="6.836" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-40.966" y="43.044" width="6.836" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-37.548" y="43.687"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;PPT&gt;&gt;</text>
+<text x="-37.548" y="44.687"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Place Part Type</text>
+<rect x="-40.966" y="45.244" width="6.836" height="5.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-40.966" y="45.244" width="6.836" height="5.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-40.816" y="46.144"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++id: I4</text>
+<text x="-40.816" y="46.944"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type: I4</text>
+<text x="-40.816" y="47.744"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++value: C100</text>
+<text x="-40.816" y="48.544"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++system: L1</text>
+<text x="-40.816" y="49.344"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++shortvalue: C20</text>
+<text x="-40.816" y="50.144"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-40.816" y="50.944"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<rect x="-16.773" y="56.552" width="5.660" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-16.773" y="56.552" width="5.660" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-13.943" y="57.195"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;R&gt;&gt;</text>
+<text x="-13.943" y="58.195"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Repositories</text>
+<rect x="-16.773" y="58.752" width="5.660" height="8.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-16.773" y="58.752" width="5.660" height="8.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-16.623" y="59.652"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="-16.623" y="60.452"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++name: M4</text>
+<text x="-16.623" y="61.252"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="-16.623" y="62.052"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ref_id: I4</text>
+<text x="-16.623" y="62.852"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++abbrev: C50</text>
+<text x="-16.623" y="63.652"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++address: I4</text>
+<text x="-16.623" y="64.452"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rnote: M4</text>
+<text x="-16.623" y="65.252"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rperno: I4</text>
+<text x="-16.623" y="66.052"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ispicked: L1</text>
+<text x="-16.623" y="66.852"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<rect x="6.392" y="20.378" width="5.400" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.392" y="20.378" width="5.400" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="9.092" y="21.020"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;S&gt;&gt;</text>
+<text x="9.092" y="22.020"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Citations</text>
+<rect x="6.392" y="22.578" width="5.400" height="13.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.392" y="22.578" width="5.400" height="13.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="6.542" y="23.478"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="6.542" y="24.278"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++stype: C1</text>
+<text x="6.542" y="25.078"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++refrec: I4</text>
+<text x="6.542" y="25.878"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++majsource: I4</text>
+<text x="6.542" y="26.678"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++subsource: M4</text>
+<text x="6.542" y="27.478"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++snsure: C1</text>
+<text x="6.542" y="28.278"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sssure: C1</text>
+<text x="6.542" y="29.078"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sdsure: C1</text>
+<text x="6.542" y="29.878"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++spsure: C1</text>
+<text x="6.542" y="30.678"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sfsure: C1</text>
+<text x="6.542" y="31.478"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ispicked: L1</text>
+<text x="6.542" y="32.278"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sequence: I4</text>
+<text x="6.542" y="33.078"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++citmemo: M4</text>
+<text x="6.542" y="33.878"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++exclude: L1</text>
+<text x="6.542" y="34.678"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="6.542" y="35.478"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="6.542" y="36.278"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++citref: C30</text>
+<rect x="31.924" y="1.013" width="6.100" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.924" y="1.013" width="6.100" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="34.974" y="1.656"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;ST&gt;&gt;</text>
+<text x="34.974" y="2.656"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Style</text>
+<rect x="31.924" y="3.213" width="6.100" height="9.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.924" y="3.213" width="6.100" height="9.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="32.075" y="4.113"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++styleid: I4</text>
+<text x="32.075" y="4.913"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="32.075" y="5.713"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++stylename: C100</text>
+<text x="32.075" y="6.513"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++st_display: M4</text>
+<text x="32.075" y="7.313"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++st_output: M4</text>
+<text x="32.075" y="8.113"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++group: C1</text>
+<text x="32.075" y="8.913"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++srnamesort: M4</text>
+<text x="32.075" y="9.713"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++srnamedisp: M4</text>
+<text x="32.075" y="10.513"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++gvnamesort: M4</text>
+<text x="32.075" y="11.313"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++gvnamedisp: M4</text>
+<text x="32.075" y="12.113"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++otherdisp: M4</text>
+<text x="32.075" y="12.913"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<rect x="-44.600" y="23.230" width="5.750" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-44.600" y="23.230" width="5.750" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-41.725" y="23.872"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;T&gt;&gt;</text>
+<text x="-41.725" y="24.872"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Tag Types</text>
+<rect x="-44.600" y="25.430" width="5.750" height="16.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-44.600" y="25.430" width="5.750" height="16.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-44.450" y="26.330"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ispicked: L1</text>
+<text x="-44.450" y="27.130"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="-44.450" y="27.930"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++active: L1</text>
+<text x="-44.450" y="28.730"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++etypenum: I4</text>
+<text x="-44.450" y="29.530"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++origetype: I4</text>
+<text x="-44.450" y="30.330"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++admin: N2</text>
+<text x="-44.450" y="31.130"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ldsonly: L1</text>
+<text x="-44.450" y="31.930"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++etypename: C20</text>
+<text x="-44.450" y="32.730"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++gedcom_tag: C4</text>
+<text x="-44.450" y="33.530"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++isreport: L1</text>
+<text x="-44.450" y="34.330"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tsentence: M4</text>
+<text x="-44.450" y="35.130"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++abbrev: C4</text>
+<text x="-44.450" y="35.929"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++witdisp: L1</text>
+<text x="-44.450" y="36.729"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++pasttense: C20</text>
+<text x="-44.450" y="37.529"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++prinrole: L1</text>
+<text x="-44.450" y="38.329"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++witrole: L1</text>
+<text x="-44.450" y="39.129"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++maxyear: N4</text>
+<text x="-44.450" y="39.929"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++minyear: N4</text>
+<text x="-44.450" y="40.729"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-44.450" y="41.529"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++properties: M4</text>
+<rect x="37.835" y="50.585" width="8.733" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="37.835" y="50.585" width="8.733" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="42.202" y="51.228"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;U&gt;&gt;</text>
+<text x="42.202" y="52.228"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Source Components</text>
+<rect x="37.835" y="52.785" width="8.733" height="4.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="37.835" y="52.785" width="8.733" height="4.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="37.985" y="53.685"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno: I4</text>
+<text x="37.985" y="54.485"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="37.985" y="55.285"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++element: C30</text>
+<text x="37.985" y="56.085"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++groupnum: N3</text>
+<text x="37.985" y="56.885"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<rect x="-17.289" y="40.480" width="8.095" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-17.289" y="40.480" width="8.095" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-13.242" y="41.123"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;W&gt;&gt;</text>
+<text x="-13.242" y="42.123"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Source/Repo Links</text>
+<rect x="-17.289" y="42.681" width="8.095" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-17.289" y="42.681" width="8.095" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="-17.139" y="43.581"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++mnumber: I4</text>
+<text x="-17.139" y="44.380"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rnumber: I4</text>
+<text x="-17.139" y="45.180"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++reference: C25</text>
+<text x="-17.139" y="45.980"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++primary: L1</text>
+<text x="-17.139" y="46.780"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<text x="-17.139" y="47.580"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<rect x="31.224" y="14.308" width="7.043" height="2.200" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.224" y="14.308" width="7.043" height="2.200" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="34.746" y="14.951"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+&lt;&lt;XD&gt;&gt;</text>
+<text x="34.746" y="15.951"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="700">
+Excluded Dupes</text>
+<rect x="31.224" y="16.508" width="7.043" height="3.400" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.224" y="16.508" width="7.043" height="3.400" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="31.374" y="17.408"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++dsid: I4</text>
+<text x="31.374" y="18.208"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per1: I4</text>
+<text x="31.374" y="19.008"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per2: I4</text>
+<text x="31.374" y="19.808"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++tt: C1</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-25.826,4.950 -10.063,4.950 -10.063,8.650 -6.850,8.650 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-25.138,4.550 -25.938,4.950 -25.138,5.350 "/>
+<text x="-25.050" y="4.408"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per_no</text>
+<text x="-7.050" y="8.108"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++nper</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-18.200,8.150 -18.950,8.150 -18.950,6.550 -25.826,6.550 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-25.138,6.150 -25.938,6.550 -25.138,6.950 "/>
+<text x="-18.400" y="7.607"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++eper</text>
+<text x="-25.050" y="6.008"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per_no</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-15.061,18.835 -20.600,18.835 -20.600,8.150 -25.826,8.150 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-25.138,7.750 -25.938,8.150 -25.138,8.550 "/>
+<text x="-15.261" y="18.293"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per1 or per2</text>
+<text x="-25.050" y="7.607"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per_no</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-12.800,15.350 -8.096,15.350 -8.096,22.035 -9.788,22.035 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-9.099,21.635 -9.899,22.035 -9.099,22.435 "/>
+<text x="-12.600" y="14.807"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++gnum</text>
+<text x="-9.011" y="21.493"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-15.061,22.035 -18.113,22.035 -18.113,40.330 -38.627,40.330 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-37.939,39.930 -38.739,40.330 -37.939,40.730 "/>
+<text x="-15.261" y="21.493"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++etype</text>
+<text x="-37.850" y="39.787"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++etypenum</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-15.061,33.735 -17.613,33.735 -17.613,45.173 -22.364,45.173 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-21.676,44.773 -22.476,45.173 -21.676,45.573 "/>
+<text x="-15.261" y="33.193"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++placenum</text>
+<text x="-21.588" y="44.631"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-24.945,32.446 -29.950,32.446 -29.950,32.550 -31.800,32.550 -31.800,28.074 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-31.400,28.762 -31.800,27.962 -32.200,28.762 "/>
+<text x="-25.145" y="31.904"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++child and parent</text>
+<text x="-31.250" y="28.393"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per_no</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-24.945,37.246 -29.012,37.246 -29.012,34.730 -38.627,34.730 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-37.939,34.330 -38.739,34.730 -37.939,35.130 "/>
+<text x="-25.145" y="36.704"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++ptype</text>
+<text x="-37.850" y="34.187"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++etypenum</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.792,35.878 15.200,35.878 15.200,45.700 11.424,45.700 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="12.112,45.300 11.312,45.700 12.112,46.100 "/>
+<text x="11.992" y="35.335"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++majsource</text>
+<text x="12.200" y="45.158"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++majnum</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="6.392,29.478 -2.962,29.478 -2.962,39.500 -22.230,39.500 -22.230,37.970 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-21.830,38.658 -22.230,37.858 -22.630,38.658 "/>
+<text x="6.192" y="28.935"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++refrec</text>
+<text x="-21.680" y="38.289"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="6.392,23.078 2.900,23.078 2.900,23.850 -0.526,23.850 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="0.162,23.450 -0.638,23.850 0.162,24.250 "/>
+<text x="6.192" y="22.535"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++refrec</text>
+<text x="0.250" y="23.308"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="6.168,25.478 1.237,25.478 1.237,28.435 -10.011,28.435 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.480,25.878 6.280,25.478 5.480,25.078 "/>
+<text x="5.392" y="24.935"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<text x="-9.811" y="27.893"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++refrec</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-16.773,60.052 -18.633,60.052 -18.633,47.473 -22.414,47.473 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-21.726,47.073 -22.526,47.473 -21.726,47.873 "/>
+<text x="-16.973" y="59.510"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++address</text>
+<text x="-21.638" y="46.931"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-16.773,62.452 -46.363,62.452 -46.363,0.950 -31.800,0.950 -31.800,2.026 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-32.200,1.338 -31.800,2.138 -31.400,1.338 "/>
+<text x="-16.973" y="61.910"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rperno</text>
+<text x="-31.250" y="1.992"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per_no</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-9.239,43.181 -7.700,43.181 -7.700,45.700 5.226,45.700 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.538,46.100 5.338,45.700 4.538,45.300 "/>
+<text x="-9.039" y="42.638"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++mnumber</text>
+<text x="4.450" y="45.158"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++majnum</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-9.239,47.181 -7.250,47.181 -7.250,60.052 -10.999,60.052 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-10.311,59.652 -11.111,60.052 -10.311,60.452 "/>
+<text x="-9.039" y="46.638"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rnumber</text>
+<text x="-10.223" y="59.510"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-36.913,8.706 -34.213,8.706 -34.213,12.150 -32.024,12.150 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-32.712,12.550 -31.912,12.150 -32.712,11.750 "/>
+<text x="-36.713" y="8.163"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlper1</text>
+<text x="-32.800" y="11.607"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per_no</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-36.913,5.506 -33.963,5.506 -33.963,3.350 -32.024,3.350 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-32.712,3.750 -31.912,3.350 -32.712,2.950 "/>
+<text x="-36.713" y="4.963"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlper2</text>
+<text x="-32.800" y="2.808"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++per_no</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-38.627,27.529 -33.713,27.529 -33.713,15.106 -36.913,15.106 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-37.939,27.130 -38.739,27.529 -37.939,27.929 "/>
+<text x="-37.850" y="26.987"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++etypenum</text>
+<text x="-36.713" y="14.563"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++rlgtype</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="7.860,5.064 3.692,5.064 3.692,15.950 -0.700,15.950 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="7.172,5.464 7.972,5.064 7.172,4.664 "/>
+<text x="7.084" y="4.521"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<text x="-0.500" y="15.407"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.105,13.941 5.509,13.941 5.509,5.964 8.034,5.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="10.416,14.341 11.216,13.941 10.416,13.541 "/>
+<text x="10.328" y="13.399"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uid</text>
+<text x="7.834" y="5.421"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uid</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="15.475,6.664 17.259,6.664 17.259,8.865 19.989,8.865 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="19.301,9.265 20.101,8.865 19.301,8.465 "/>
+<text x="15.675" y="6.121"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type</text>
+<text x="19.212" y="8.322"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-6.850,25.450 -8.463,25.450 -8.463,38.730 -38.627,38.730 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-37.939,38.330 -38.739,38.730 -37.939,39.130 "/>
+<text x="-7.050" y="24.907"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++altype</text>
+<text x="-37.850" y="38.187"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++etypenum</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-28.876,54.022 -31.478,54.022 -31.478,47.044 -33.856,47.044 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-33.167,46.644 -33.967,47.044 -33.167,47.444 "/>
+<text x="-29.076" y="53.480"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type</text>
+<text x="-33.079" y="46.502"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-28.876,58.022 -31.389,58.022 -31.389,55.973 -33.679,55.973 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-32.990,55.573 -33.790,55.973 -32.990,56.373 "/>
+<text x="-29.076" y="57.480"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uid</text>
+<text x="-32.902" y="55.430"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++uid</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-22.638,49.073 -19.863,49.073 -19.863,57.222 -21.437,57.222 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-20.749,56.822 -21.549,57.222 -20.749,57.622 "/>
+<text x="-22.438" y="48.531"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<text x="-20.661" y="56.680"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++recno</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.200,48.100 16.483,48.100 16.483,53.328 21.543,53.328 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="20.854,53.728 21.654,53.328 20.854,52.928 "/>
+<text x="11.400" y="47.558"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++type or custtype</text>
+<text x="20.766" y="52.785"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++sourtype</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.200,64.100 32.698,64.100 32.698,53.785 37.562,53.785 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="36.874,54.185 37.674,53.785 36.874,53.385 "/>
+<text x="11.400" y="63.557"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++field number in info memo</text>
+<text x="36.786" y="53.243"  fill="#000000" text-anchor="end" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
++groupnum</text>
+</svg>

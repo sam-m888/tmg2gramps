@@ -1,0 +1,544 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;}{\stylesheet{\widctlpar\adjustright \fs20 \snext0 Normal;}{\s1\sb360\sa360\keep\widctlpar\adjustright \b\f1\fs40 \sbasedon0 \snext0 heading 1;}{\s4\sb120\keep\keepn\widctlpar\adjustright \b\f1 \sbasedon0 \snext0 heading 4;}{\*
+\cs10 \additive Default Paragraph Font;}{\s15\sb60\sa40\keep\widctlpar\box\brdrs\brdrw15\brsp20 \adjustright \shading500 \fs20 \sbasedon0 \snext15 Shade;}{
+\s16\sb60\sa40\keep\keepn\widctlpar\pvpara\phpg\posxi\posy144\absw1440\dxfrtext187\dfrmtxtx187\dfrmtxty0\adjustright \b\f1\fs16 \sbasedon0 \snext0 Margin note;}{\s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 \sbasedon0 \snext17 Lists;}{
+\s18\fi-360\li360\widctlpar\jclisttab\tx360{\*\pn \pnlvlbody\ilvl0\ls3\pnrnot0\pndec }\ls3\adjustright \fs20 \sbasedon0 \snext18 \sautoupd List Bullet;}}{\*\listtable{\list\listtemplateid1153484680\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid-119}{\list\listtemplateid-1\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat0\levelspace0
+\levelindent0{\leveltext\'01*;}{\levelnumbers;}}{\listname ;}\listid-2}{\list\listtemplateid-28399842\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat11\levelspace0\levelindent0{\leveltext\'01\'00;}{\levelnumbers\'01;}\fbias0 
+\fi-960\li1440\jclisttab\tx1440 }{\listname ;}\listid954602193}}{\*\listoverridetable{\listoverride\listid-119\listoverridecount0\ls1}{\listoverride\listid-119\listoverridecount0\ls2}{\listoverride\listid-119\listoverridecount0\ls3}
+{\listoverride\listid-119\listoverridecount0\ls4}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent283{\leveltext\'01\u-3913 ?;}{\levelnumbers
+;}\f3\fbias0 \fi-283\li283 }}\ls5}{\listoverride\listid-119\listoverridecount0\ls6}{\listoverride\listid954602193\listoverridecount0\ls7}}{\info{\title Appendix C:  File Structures}{\author Lissa Soergel}{\operator Bob}
+{\creatim\yr1998\mo10\dy22\hr10\min20}{\revtim\yr1998\mo10\dy22\hr10\min20}{\version2}{\edmins0}{\nofpages11}{\nofwords4245}{\nofchars24198}{\*\company Wholly Genes, Inc.}{\nofcharsws0}{\vern89}}
+\widowctrl\ftnbj\aenddoc\makebackup\hyphcaps0\formshade\viewkind1\viewscale109 \fet0\sectd \linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}\pard\plain \s1\qc\sb360\sa360\keep\widctlpar\outlinelevel0\adjustright \b\f1\fs40 {The Master Genealogist (TMG)\line File Structures\line }{\fs20 Updated May 1998 for v3.6}{\pard\plain 
+\s1\qc\sb360\sa360\keep\widctlpar\outlinelevel0\adjustright \b\v\f1\fs40 {\xe {File Structures}}}{
+\par }\pard\plain \widctlpar\adjustright \fs20 {
+\par The file structures in TMG are described below as an aid to developers and those seeking direct access to TMG\rquote s data files. We encourage third-party development because it provides further options to our users.
+\par While the basic design and fundamental file associations are expected to remain stable for the foreseeable future, Wholly Genes, Inc., reserves the right to change TMG\rquote 
+s file structures at any time without notice. Serious developers should write to the Technical Support Department for complete and up-to-date file descriptions.\line 
+\par Wholly Genes, Inc., further reserves the right to develop, license, market, and sell feature enhancements and/or external utilities which operate on TMG\rquote 
+s data files and which might compete or conflict with those provided by third-party vendors. In an effort to foster a cooperative spirit among developers and provide the best possible 
+service to our customers, developers are encouraged to inquire about work in progress before proceeding.
+\par }\pard\plain \s15\sb60\sa40\keep\widctlpar\box\brdrs\brdrw15\brsp20 \adjustright \shading500 \fs20 {\b Warning}{\tab We strongly discourage access to TMG\rquote 
+s data files from outside the controlled parameters of the program environment by users who are not skille
+d in relational database design and xBase programming techniques. In all circumstances, Wholly Genes, Inc., specifically disavows any responsibility for damage or loss of these data files which might result from access by other parties. In particular, the
+ accuracy of the file structures in this document is not guaranteed, nor are these file structures certified for any particular purpose. Back up often \emdash  and proceed at your own risk!
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Not included
+\par }\pard\plain \widctlpar\adjustright \fs20 {This document is limited to the description of users\rquote  data fi
+les. No attempt is made to describe the structures of program files, administrative files, system configuration/memory files, macro files, and temporary work files, as they do not contain genealogical data.  For assistance in accessing any files not speci
+fically described in this document, please contact Wholly Genes, Inc., Technical Support Department.
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {File Compatibility
+\par }\pard\plain \widctlpar\adjustright \fs20 {Information which is entered in TMG is stored in a series of Foxpro-compatible database files. Note that, while many of these files may b
+e read or manipulated by database managers such as dBase and Paradox, complete compatibility with such systems should not be assumed. In particular, while TMG\rquote 
+s database (DBF) files are technically compatible with those produced by dBase III and dBase IV, the memo (FPT) files which are associated with some of those databases are }{\b not}{
+. Attempts to access those database files through dBase or other utility may render them incompatible or unreadable by Foxpro and TMG.
+\par Structural compound index (CDX) files are l
+ikewise Foxpro-compatible. However, because the user-defined functions which are utilized as index keys are compiled into the program, they are not accessible to third-party developers. Attempts to open these data files from Foxpro will generate a 
+\ldblquote File does not exist\rdblquote  or similar error.\line 
+\par For these reasons, it is recommended that TMG be exited using the }{\b Exit and Minimiz}{e option on the }{\b File}{ menu prior to direct access through Foxpro or other utility. This process will eliminate complications by erasing the as
+sociated structural index files. Upon restarting TMG, any missing index file(s) will be recreated.\line 
+\par Alternatively, the compact index (CDX) files may be erased when not in use. When subsequently accessed directly from Foxpro, a \ldblquote Structural CDX File Not Found\rdblquote  error will be generated. The developer should choose \ldblquote Ignore,
+\rdblquote  which will eliminate the open link between DBF and CDX.\line 
+\par TMG\rquote s database (DBF) files are encoded with the code page which was in use when it was created (or updated by a patch). The default c
+ode page is 437 (U.S.). All DBF files within a single TMG data set are expected to be marked with the same code page. The collation sequence may be any that is supported by Foxpro 2.5b but is also expected to be the same throughout any indexes for a singl
+e data set.
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Modifying files
+\par }\pard\plain \widctlpar\adjustright \fs20 {The data in TMG\rquote 
+s database files may be manipulated by careful developers according to the specific guidelines in this document.  Care should be taken to access these files in exclusive mode, however. In particular, }{\ul do not acces
+s these files via a network, multitasking environment, or task switcher (i.e., MS/Windows}{\pard\plain \widctlpar\adjustright \v\fs20\ul {\xe {\ul MS/Windows}}}{\ul , Desqview}{\pard\plain \widctlpar\adjustright \v\fs20\ul {\xe {\ul Desqview}}}{\ul 
+, etc.) }{\b\ul while TMG is running}{\ul .\line }{
+\par With the notable exception of the Person (P) file described later, the experienced developer m
+ay rearrange or add additional fields to any TMG data file to suit a particular purpose. Deletion of default fields, however, at least will cause abnormal terminations of TMG \emdash  and at most will risk }{\b unrecoverable corruption of the data files}{
+. Likewise, developers must not change field names, field types, field lengths, or other attributes of the default file structures.\line 
+\par Developers who wish to create their own index files or keys are encouraged to use standard index (IDX) files, rather than structural compo
+und index (CDX) files, in order to avoid conflicts with index keys created by TMG. Among other concerns, the speed of TMG may be severely degraded by the presence of unused or unrecognized index keys.\line 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {TMG Versions\line }{\b0\f0\fs20 Throughout this document, distinctions ar
+e made when file structures vary according to the version of TMG at hand.  For instance, there are a number of differences between the file structures of TMG/DOS                                         v1.2a and TMG/Win v3.0.   
+\par Note that references by version are independent of platform.  That is, \ldblquote v3.x or later\rdblquote  refers to TMG/DOS v3.x as well as TMG/Win v3.x.  
+\par Versions prior to v1.2a (DOS) are not described in this document.
+\par }\pard\plain \widctlpar\adjustright \fs20 {
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Basic Organization
+\par }\pard\plain \widctlpar\adjustright \fs20 {All files associated with a single TMG data set are containe
+d in a single subdirectory.  In versions prior to v3.x, that directory has the same name as the data set and is subordinate to the program directory.  For instance, the SAMPLE data set is self-contained in the C:\\TMG1\\SAMPLE subdirectory.
+\par 
+\par In all other versions, the data set may be stored on any drive and directory. 
+\par 
+\par All file names within the data subdirectory begin with the same seven characters: the name of the data set padded on the right as necessary with underscore (_) characters. For instance, all files in the SAMPLE data set (i.e., C:\\TMG1\\
+SAMPLE directory) begin with \ldblquote SAMPLE_\rdblquote . The eighth character and file extension identify the contents of the file.
+\par \line File types with the following extensions are represented in each data subdirectory:
+\par \tab DBF\tab }{{\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 10}{\fldrslt\f3\fs20}}}{ Foxpro database files
+\par \tab FPT\tab }{{\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 10}{\fldrslt\f3\fs20}}}{ Foxpro memo files
+\par \tab CDX\tab }{{\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 10}{\fldrslt\f3\fs20}}}{ Foxpro structural compound indexes
+\par \tab VER\tab }{{\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 10}{\fldrslt\f3\fs20}}}{ Version control file (ASCII text) (}{\b v1.2a and earlier}{)
+\par }{\b \tab }{TMG\tab }{{\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 10}{\fldrslt\f3\fs20}}}{ Version control file (ASCII text) (}{\b v2.0 and later}{)
+\par \tab DOC\tab }{{\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 10}{\fldrslt\f3\fs20}}}{ Documentation file (ASCII text)
+\par \tab MEM\tab }{{\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 10}{\fldrslt\f3\fs20}}}{ Foxpro memory variable file.
+\par Each file type is described in detail in the following sections.
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Database Files (DBF/FPT/CDX)
+\par }\pard\plain \widctlpar\adjustright \fs20 {This section describes the file structure or record layout for the database files within a TMG data set. A small amount of redundancy is intentionally included to enhance performance on 
+the Picklist and other operations.\line 
+\par Total record length includes one byte for the DELETED() flag, as is customary in xBase languages.
+\par Take care when manually deleting records that the record is left empty and that all links to other files are likewise deleted.\line 
+\par By default, the memo block size is set to 33 bytes and the code page is set to 437 (or the user\rquote s current code page).\line 
+\par }\pard\plain \s15\sb60\sa40\keep\widctlpar\box\brdrs\brdrw15\brsp20 \adjustright \shading500 \fs20 {\b Warning}{\tab Deleted records are recycled automatically by TMG.  Some files (notably the N, G, F, M, and R files, and perhaps others in 
+future revisions) use the record number to link to other files.  For this reason, ** }{\b DO NOT PACK TMG\rquote S DATA FILES **}{.  To do so would irrevocably corrupt those links.
+\par TMG users may use the built-in Optimize feature to conserve unused disk space while preserving all internal file associations.
+\par }\pard \s15\sb60\sa40\keep\widctlpar\box\brdrs\brdrw15\brsp20 \tx1980\adjustright \shading500 {Foxpro developers may PACK MEMO to recycle unused space in the FPT file without removing deleted records.
+\par }\pard\plain \widctlpar\adjustright \fs20 {\f2\ul 
+\par Each TMG data set contains the following database files:
+\par }\pard\plain \s17\fi-540\li810\keep\widctlpar\tx1890\adjustright \f2\fs16 {Prior to v3.x
+\par \tab _.DBF\tab Person File\tab (i.e., DATASET_.DBF)
+\par v3.x and later
+\par \tab $.DBF\tab Person File\tab (i.e., DATASET$.DBF)
+\par 
+\par And all versions:
+\par \tab N.DBF\tab and N.FPT\tab Name File
+\par \tab E.DBF\tab Event Witness File
+\par \tab G.DBF* \tab Event File
+\par \tab F.DBF*\tab Father/Mother (Relationship) File
+\par \tab S.DBF*\tab Source Citation File
+\par \tab M.DBF*\tab Source File
+\par \tab R.DBF*\tab Repository File
+\par \tab W.DBF\tab Repository Link File
+\par \tab P.DBF*\tab Place File
+\par \tab K.DBF\tab Timeline Lock File
+\par \tab T.DBF\tab Tag Type File
+\par \tab I.DBF*\tab Exhibit File (created if/when first accessed)
+\par \tab L.DBF*\tab Research Log File (created if/when first accessed)
+\par 
+\par * = Has accompanying .FPT file for memos.
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {\page Layout of Person File (_.DBF or $.DBF)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {
+\par The record length of this file will vary with the addition of user-defined flags.
+\par 
+\par }\pard\plain \s15\sb60\sa40\keep\widctlpar\box\brdrs\brdrw15\brsp20 \adjustright \shading500 \fs20 {\b Warning\tab }{Do not change, add, or reorder fields in this file.
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {
+\par Field  Field Name  Type       Width 
+\par     1  PER_NO      Numeric       10\tab Unique ID Number - Assigned sequentially by the system
+\par     2  FATHER      Numeric       10\tab ID Number of Primary Father              
+\par     3  FATHSURE    Character      1\tab Relationship surety to Primary Father 
+\par     4  MOTHER      Numeric       10\tab ID Number of Primary Mother 
+\par     5  MOTHSURE    Character      1\tab Relationship surety to Primary Mother  (see \ldblquote Surety\rdblquote  later)
+\par }\pard \s17\keep\widctlpar\adjustright {    6  LAST_EDIT   Date           8\tab Date this person was last edited
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {    7  REFERENCE   Character     12\tab User-defined Reference Number
+\par     8  SPOULAST    Character      3\tab ID number of last spouse with whom this person was paired on a Family or Tree View.  The number is converted to base 255 and each byte is store
+d by its ASCII representation.  This accommodates numbers as large as 16.5 million ((255^3)-1) within 3 bytes and helps to conserve space.  For instance, Spouse ID #341 = (}{\b 86}{*(255^0))+(}{\b 1}{*(255^1))+(}{\b 0}{*(255^2)) so SPOULAST = CHR(}{\b 86}
+{)+CHR(}{\b 1}{)+CHR(}{\b 0}{)
+\par     9  SCBUFF      Character     10\tab Temporary scratch buffer - no data             
+\par    10  PBIRTH      Character     24\tab Primary birth date  (see \ldblquote Dates\rdblquote  later) (}{\b lengthened to 30 characters in v3.5}{)
+\par    11  PDEATH      Character     24\tab Primary death date  (see \ldblquote Dates\rdblquote  later) (}{\b lengthened to 30 characters in v3.5}{)
+\par    12  SEX         Character      1\tab Sex    (?/M/F)
+\par    13  LIVING      Character      1\tab Living (?/Y/N) 
+\par    14  BIRTHORDER  Character      2\tab Sequential birth order among full siblings              
+\par    15  MULTIBIRTH  Character      1\tab Multiple Birth Flag (?/Y/N)
+\par    16  ADOPTED     Character      1\tab Adopted Flag (?/N/Y)              
+\par    17  ANCE_INT    Character      1\tab Ancestor Interest Flag (0-3) 
+\par    18  DESC_INT    Character      1\tab Descendant Interest Flag (0-3)
+\par    19+ (FLAGNAME)  Character      1\tab User-Defined Flag.  Versions prior to v2.x are limited to ten user-defined flags.  All other versions allow any number of such flags.
+\par  
+\par }{\b\f1\fs24 Layout of Name File (N.DBF and N.FPT)
+\par }{
+\par 
+\par Field  Field Name  Type       Width    
+\par     1  NPER        Numeric       10\tab ID Number of Person
+\par     2  ALTYPE      Numeric        5\tab Name/Alias Tag Type (related to ETYPENUM in T.DBF)
+\par     3  ISPICKED    Logical        1\tab Flag for user selection from Picklist, etc.
+\par     4  NAME        Memo          10\tab Name of this individual delimited as follows :\line Surname#Title#GivenName#Suffix}{\b  \line In this context, \ldblquote #\rdblquote 
+ represents the standard delimiter.  See Standard Delimiter at the end of this document.}{
+\par     5  INFS        Logical        1\tab Flag to indicate whether the surname in this record is inferred from the person\rquote s primary name record, rather than entered directly by the user.
+\par     6  INFG        Logical        1\tab Flag to indicate whether the given name in this record is inferred from the person\rquote s primary name record, rather than entered directly by the user.              
+\par }\pard\plain \s16\sb60\sa40\keep\keepn\widctlpar\pvpara\phpg\posxi\posy87\absw1440\dxfrtext187\dfrmtxtx187\dfrmtxty0\adjustright \b\f1\fs16 {See Surety later in this Appendix.
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {    7  PRIMARY     Logical        1\tab Primary name?                  
+\par     8  NSURE       Character      1\tab Max Name surety   
+\par     9  FSURE       Character      1\tab Max Memo surety 
+\par    10  NNOTE       Memo          10\tab Name memo              
+\par    11  RECNO       Numeric       10\tab Sequential Name Record Number (=RECNO())
+\par    12  NDATE       Character     25\tab Name date (}{\b v2.0 or later}{) (}{\b lengthened to 30 characters in v3.5}{)
+\par    13  SRTDATE     Character     25\tab Name sort date (}{\b v2.0 or later}{) (}{\b lengthened to 30 characters in v3.5}{)
+\par    14  DSURE       Character      1\tab Name date surety (}{\b v2.0 or later}{)
+\par 
+\par }\pard\plain \widctlpar\adjustright \fs20 {\f2 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Layout of Event Witness File (E.DBF)
+\par }\pard\plain \widctlpar\adjustright \fs20 {\f2 
+\par Note: all principals are also witnesses.  A witness is a principal if E.EPER = G.PER1 or E.EPER = G.PER2.
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {
+\par Field  Field Name  Type       Width    
+\par     1  EPER        Numeric       10\tab Witness ID Number
+\par     2  GNUM        Numeric       10\tab Event Number (related to G.DBF)              
+\par     3  PRIMARY     Logical        1\tab Event is primary for this witness?  Must be .F. unless this witness is a principal in the event
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Layout of Event File (G.DBF and G.FPT)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {Field  Field Name  Type       Width
+\par     1  ETYPE       Numeric        5  Event Tag Type (related to T.DBF)
+\par     2  PER1SHOW    Logical        1  Principal 1 is displayed on Person View?
+\par     3  PER2SHOW    Logical        1  Principal 2 is displayed on Person View?
+\par     4  PER1        Numeric       10  First Principal of this event
+\par     5  PER2        Numeric       10  Second Principal of this event
+\par     6  EDATE       Character     24  Date of this event.  See \ldblquote Dates\rdblquote  later in this document. (}{\b lengthened to 30 characters in v3.5}{) 
+\par     7  PLACENUM    Numeric       10  Place Number (related to P.DBF)
+\par     8  EFOOT       Memo          10  Memo
+\par     9  ENSURE      Character      1  Max Surety of Principal 1 (see \ldblquote Surety\rdblquote  later in this document)
+\par    10  ESSURE      Character      1  Max Surety of Principal 2
+\par    11  EDSURE      Character      1  Max Surety of Date              
+\par    12  EPSURE      Character      1  Max Surety of Place              
+\par    13  EFSURE      Character      1  Max Surety of Memo
+\par    14  RECNO       Numeric       10  Event Number (=RECNO())
+\par    15  SENTENCE    Memo          10  Sentence Construction Rules
+\par    16  SRTDATE     Character     25  Sort date (}{\b v2.0 or later}{) (}{\b lengthened to 30 characters in v3.5}{)
+\par 
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Layout of Father/Mother (Relationship) File (F.DBF and F.FPT)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {Field  Field Name  Type       Width
+\par     1  PRIMARY     Logical        1\tab Primary Parental Relationship?
+\par     2  CHILD       Numeric       10\tab Child ID Number
+\par     3  PARENT      Numeric       10\tab Parent ID Number
+\par     4  PTYPE       Numeric        5\tab Relation Tag Type (related to T.DBF)
+\par     5  PNOTE       Memo          10\tab Relationship Memo                  
+\par     6  PSURE       Character      1\tab Max Relationship Surety
+\par     7  FSURE       Character      1\tab Max Memo Surety
+\par     8  RECNO       Numeric       10\tab Relationship Number (=RECNO())
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Layout of Source Citation File (S.DBF and S.FPT)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {Field  Field Name  Type       Width
+\par     1  STYPE       Character      1\tab Citation Record Type
+\par }\pard \s17\fi-3870\li3870\keep\widctlpar\adjustright {\tab N = Name Record (N.DBF)
+\par \tab F = Relationship Record (F.DBF)
+\par \tab M = Source Record (M.DBF)
+\par \tab E = Event Record (G.DBF; }{\ul NOTE:*not* E.DBF}{)                  
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {    2  REFREC      Numeric       10\tab Citation Record Number (of file identified by STYPE)                  
+\par     3  MAJSOURCE   Numeric       10\tab Source Number (related to M.DBF)                  
+\par     4  SUBSOURCE   Memo          10\tab Citation Detail
+\par     5  SNSURE      Character      1\tab Principal 1 Surety (or name or relationship surety) See \ldblquote Surety\rdblquote  later in this document.             
+\par     6  SSSURE      Character      1\tab Principal 2 Surety                  
+\par     7  SDSURE      Character      1\tab Date Surety              
+\par     8  SPSURE      Character      1\tab Place Surety                  
+\par     9  SFSURE      Character      1\tab Relationship Surety                  
+\par    10  ISPICKED    Logical        1\tab Flag to record user-defined selection(s) in pop-up lists, etc.               
+\par    11  EXCLUDE     Logical        1  Exclude citation from reports? (}{\b v2.0 or later)}{
+\par 
+\par    
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {\fs28 Layout of Source File (M.DBF)
+\par }\pard\plain \s17\keep\widctlpar\adjustright \f2\fs16 {Field  Field Name  Type       Width 
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {    1  MACTIVE     Logical        1\tab Should this source appear on the MSL?                 
+\par     2  MAJNUM      Numeric       10\tab Source Record Number (=RECNO())
+\par     3  ABBREV      Character     30\tab Source Abbreviation   
+\par }\pard\plain \s16\sb60\sa40\keep\keepn\widctlpar\pvpara\phpg\posxi\posy41\absw1440\dxfrtext187\dfrmtxtx187\dfrmtxty0\adjustright \b\f1\fs16 {See Surety later in this appendix.
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {    4  DEFSURE     Character      1\tab Default Surety
+\par     5  TITLE       Memo          10\tab Full Title of Source             
+\par     6  TYPE        Numeric        2\tab Source Type
+\par     7  RECORDER    Numeric        2\tab Source Recorder Type     
+\par \tab \tab 1=Other
+\par \tab \tab 2=Person
+\par \tab \tab 3=Civil
+\par \tab \tab 4=Church
+\par \tab \tab 5=Commercial
+\par \tab \tab 6=Institutional
+\par     8  MEDIA       Numeric        2\tab Media Type
+\par \tab \tab 1=Other
+\par \tab \tab 2=Film
+\par \tab \tab 3=Book
+\par \tab \tab 4=Visual
+\par \tab \tab 5=Audio
+\par \tab \tab 6=Memory
+\par     9  FIDELITY    Numeric        2\tab Fidelity  
+\par \tab \tab 1=Other
+\par \tab \tab 2=Original
+\par \tab \tab 3=Photocopy
+\par \tab \tab 4=Transcript
+\par \tab \tab 5=Extract    
+\par    10  INDEXED     Numeric        1\tab Indexed
+\par \tab \tab 1=Unknown
+\par \tab \tab 2=No
+\par \tab \tab 3=Yes                
+\par    11  STATUS      Numeric        2\tab (Reserved)
+\par    12  TEXT        Memo          10\tab Source Memo              
+\par    13  SPERNO      Numeric       10\tab Author ID Number 
+\par    14  SUBJECTID   Numeric       10\tab Subject ID Number (}{\b v3.5 and later)}{
+\par    15  COMPILERID  Numeric       10\tab Compiler ID Number (}{\b v3.5 and later)}{
+\par    16  EDITORID    Numeric       10\tab Editor ID Number (}{\b v3.5 and later)}{
+\par    17  SPERNO2     Numeric       10\tab Second Person ID Number (}{\b v3.5 and later)}{
+\par    18  ISPICKED    Logical        1\tab Flag for user selection                  
+\par    19  INFO        Memo          10\tab Miscellaneous Source Data delimited as follows :
+\par }\pard \s17\li3600\keep\widctlpar\adjustright {\b v3.0 and before:}{
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {\tab TimePeriod#AuthorName#Publisher#PublishDate#Series#
+\par }\pard \s17\li3600\keep\widctlpar\adjustright {PublishAddress#Edition#CallNumber#FilmNumber#Page#
+\par Volume#
+\par }{\b v3.5 and later:
+\par }{Author#Subject#Compiler#Editor#SecondPerson#
+\par Reserved#Volume#Series#Edition#Version#Subtitle#
+\par Date#SecondDate#Publisher#Location#
+\par PublisherLocation#Reserved#SecondLocation#
+\par Reserved#Reserved#RecordType#Reserved#FileName#
+\par Pages#RecordNumber#FilmNumber#ShortTitle#
+\par ShortSubtitle#Reserved# \line }{\b In this context, \ldblquote #\rdblquote  represents the standard delimiter.  See Standard Delimiter at the end of this document.}{
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {   20  FFORM       Memo          10\tab Full Footnote Sentence Form              
+\par    21  SFORM       Memo          10\tab Short Footnote Sentence Form                 
+\par    22  BFORM       Memo          10\tab Bibliography Sentence Form
+\par    23  CITED       Logical        1\tab Administrative Tracking
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {
+\par Layout of Repository File (R.DBF and R.FPT)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {Field  Field Name  Type       Width    
+\par     1  ABBREV      Character     20\tab Abbreviation
+\par     2  NAME        Memo          10\tab Full Repository Name
+\par     3  ADDRESS     Numeric       10\tab Repository Place Number (related to P.DBF)
+\par     4  RNOTE       Memo          10\tab Repository Memo
+\par     5  RPERNO      Numeric       10\tab Repository Person ID Number              
+\par     6  RECNO       Numeric       10\tab Record Number (=RECNO())
+\par     7  ISPICKED    Logical       10\tab Repository is selected for reports (}{\b v2.0 or later}{)
+\par 
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Layout of Repository Link File (W.DBF)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {Field  Field Name  Type       Width 
+\par     1  MNUMBER     Numeric       10\tab Source Number (related to M.DBF)
+\par     2  RNUMBER     Numeric       10\tab Repository Number (related to R.DBF) 
+\par     3  REFERENCE   Character     25\tab User-defined Reference Number
+\par     4  PRIMARY     Logical        1\tab Primary Repository Flag
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {\line Layout of Place File (P.DBF and P.FPT)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {Field  Field Name  Type       Width
+\par     1  PLACE       Memo          10\tab Place Name delimited as follows 
+\par \tab Addressee#Detail#City#County#State#
+\par \tab Country#PostalCode       \line }{\b In this context, \ldblquote #\rdblquote  represents the standard delimiter.  See Standard Delimiter at the end of this document.}{
+\par     2  RECNO       Numeric       10\tab Place Number (=RECNO())
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Layout of Timeline Lock File (K.DBF)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {
+\par Field  Field Name  Type       Width    
+\par     1  IDLOCK      Numeric        8\tab ID Number of Subject
+\par     2  TNAME       Character      8\tab Timeline file name (.DBF assumed)
+\par 
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Layout of Tag Type File (T.DBF)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {
+\par Field  Field Name  Type       Width    
+\par     1  PICKED      Logical        1\tab Flag for user selection
+\par     2  ACTIVE      Logical        1\tab Should tag type appear on default list?
+\par     3  ETYPENUM    Numeric        6\tab Tag type Number
+\par     4  ADMIN       Numeric        2\tab Tag type administrative group
+\par     5  LDSONLY     Logical        1\tab Tag is LDS ordinance?
+\par     6  ETYPENAME   Character     10\tab Tag type name/label
+\par     7  SENTENCE    Character    100\tab Sentence construction rules
+\par     8  GEDCOM_TAG  Character      4\tab GEDCOM tag for transport
+\par     9  YNDATE      Logical        1\tab User selected date for report?
+\par    10  YNPLACE     Logical        1\tab User selected place for report?
+\par    11  YNFOOT      Logical        1\tab User selected memo for report?
+\par    12  YNNAME      Logical        1\tab User selected name for report?
+\par    13  ISREPORT    Logical        1\tab User selected this tag type for report?
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Layout of Exhibit File (I.DBF and I.FPT)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {Field  Field Name  Type       Width
+\par     1  XNAME       Character     30\tab Exhibit Name                  
+\par     2  IFILENAME   Memo          10\tab External Video Exhibit File Name            
+\par     3  AFILENAME   Memo          10\tab External Audio Exhibit File Name                 
+\par     4  TFILENAME   Memo          10\tab External Text Exhibit File Name
+\par     5  ISCALE      Numeric        1\tab Scale
+\par     6  IWHERE      Numeric        1\tab Video Exhibit Type
+\par \tab \tab 1 = None
+\par \tab \tab 2 = Internal
+\par \tab \tab 3 = External         
+\par     7  AWHERE      Numeric        1\tab Audio Exhibit Type                  
+\par \tab \tab 1 = None
+\par \tab \tab 2 = Internal
+\par \tab \tab 3 = External         
+\par     8  TWHERE      Numeric        1\tab Text Exhibit Type
+\par \tab \tab 1 = None
+\par \tab \tab 2 = Internal
+\par \tab \tab 3 = External         
+\par     9  TOFFSET     Numeric        4\tab Image Top Offset              
+\par    10  LOFFSET     Numeric        4\tab Image Left Offset
+\par    11  BOFFSET     Numeric        4\tab Image Bottom Offset
+\par    12  ROFFSET     Numeric        4\tab Image Right Offset
+\par    13  COLOR       Numeric        1\tab Image Color
+\par \tab \tab 0 = No
+\par \tab \tab 1 = Yes
+\par    14  GRAY        Numeric        1\tab Image Greyscale
+\par \tab \tab 0 = No
+\par \tab \tab 1 = Yes
+\par    15  BW          Numeric        1\tab Image Blank & White
+\par \tab \tab 0 = No
+\par \tab \tab 1 = Yes
+\par    16  INVERT      Logical        1\tab Image Inverted?              
+\par    17  DITHER      Logical        1\tab Image Dithered?                  
+\par    18  FSBINV      Logical        1\tab Image FSB Inverted?
+\par    19  OPTIMIZE    Logical        1\tab Image Optimized?                  
+\par    20  FLIPH       Logical        1\tab Image Flipped horizontally?
+\par    21  REFERENCE   Character     10\tab User-Defined Reference Number
+\par    22  HERTZ       Numeric        5\tab Hertz for Audio Exhibit
+\par    23  LENGTH      Numeric        3\tab Length in Seconds of Audio Exhibit
+\par    24  TEXT        Memo          10\tab Internal Literal Exhibit (text)
+\par    25  IMAGE       Memo          10\tab Internal Video Exhibit (binary)                  
+\par    26  AUDIO       Memo          10\tab Internal Audio Exhibit (binary)                  
+\par    27  DESCRIPT    Memo          10\tab Description of Exhibit                  
+\par    28  INCREMENT   Numeric        4\tab Increment of Video Exhibit movement                  
+\par    29  FOREGROUND  Numeric        2\tab Video Exhibit Foreground Color              
+\par    30  BACKGROUND  Numeric        2\tab Video Exhibit Background Color
+\par    31  MESSAGE     Logical        1\tab Display video coordinates in edit mode?
+\par    32  IX1         Numeric        3\tab Coordinates of 
+\par    33  IY1         Numeric        3\tab Image Show Window
+\par    34  IX2         Numeric        3\tab    "
+\par    35  IY2         Numeric        3\tab    "
+\par    36  TX1         Numeric        3\tab Coordinates of
+\par    37  TY1         Numeric        3\tab Text Show Window
+\par    38  TX2         Numeric        3\tab    "
+\par    39  TY2         Numeric        3\tab    "
+\par    40  CX1         Numeric        3    Coordinates of
+\par    41  CY1         Numeric        3\tab Show Control Window
+\par    42  RLTYPE      Character      1\tab Exhibit Linked to
+\par }\pard \s17\fi-3870\li3870\keep\widctlpar\adjustright {\tab _ = Person Record (_.DBF)
+\par \tab M = Source Record (M.DBF)
+\par \tab E = Event Record (G.DBF; }{\ul NOTE:*not* E.DBF}{)                  
+\par \tab R = Repository (R.DBF)
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {   43  RLNUM       Numeric       10\tab Exhibit linked to Record Number (related to file according to RLTYPE)              
+\par    44  RLPER1      Numeric       10\tab Principal 1 in event linked to exhibit
+\par    45  RLPER2      Numeric       10\tab Principal 2 in event linked to exhibit
+\par    46  RLGTYPE     Numeric        5\tab Tag Type of event linked to exhibit              
+\par    47  FLIP        Character      4\tab Flip image (}{\b v2.0 and later}{)
+\par    48  ISOMETRIC   Logical        1\tab Isometric flag (}{\b v2.0 and later}{)
+\par    53  ISANTI      Logical        1\tab Anti-Alias flag (}{\b v2.0 and later}{)
+\par    54  EXHTYPE     Numeric        1\tab Exhibit type (}{\b v2.0 and later}{)
+\par \tab \tab 1=Text
+\par \tab \tab 2=image
+\par \tab \tab 3=Audio
+\par \tab \tab 4=OLE
+\par    55  ISSCROLL    Logical        1\tab Scroll bar active flag (}{\b v2.0 and later}{)
+\par    56  ISFILL      Logical        1\tab Fill active flag (}{\b v2.0 and later}{)
+\par    57  WINSIZE     Numeric        1\tab Display window size (1 is smaller) (}{\b v2.0 and later}{)
+\par    58  OLE_OBJECT  General       10 \tab OLE object link field (}{\b v2.0 and later}{)
+\par    59  PRIMARY     Logical        1\tab Primary exhibit?
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {
+\par \page Layout of Research Log File (L.DBF and L.FPT)
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {
+\par Field  Field Name  Type       Width    
+\par     1  RLTYPE      Character      1\tab Research Task Linked to
+\par }\pard \s17\fi-3870\li3870\keep\widctlpar\adjustright {\tab _ = Person Record (_.DBF)
+\par \tab M = Source Record (M.DBF)
+\par \tab E = Event Record (G.DBF; }{\ul NOTE:*not* E.DBF}{)                  
+\par \tab R = Repository (R.DBF)
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {    2  RLNUM       Numeric       10\tab Research Task Record Number (related to file according to RLTYPE)
+\par     3  RLPER1      Numeric       10\tab Principal 1 in Event linked to task
+\par     4  RLPER2      Numeric       10\tab Principal 2 in Event linked to task
+\par     5  RLGTYPE     Numeric        5\tab Tag Type of event linked to task (related to T.DBF)
+\par     6  TASK        Memo          10\tab Task memo        
+\par     7  RLEDITED    Character     11\tab Last Edited     
+\par     8  DESIGNED    Character     11\tab Date Designed  (See \ldblquote Dates\rdblquote  later in this document)
+\par     9  BEGUN       Character     11\tab Date Begun 
+\par    10  PROGRESS    Character     11\tab Date of Progress         
+\par    11  COMPLETED   Character     11\tab Date Completed
+\par    12  PLANNED     Character     11\tab Date Planned
+\par    13  EXPENSES    Numeric        8,2\tab Expenses           
+\par    14  COMMENTS    Memo          10\tab Progress text delimited as follows :
+\par \tab Designed#Begun#Progress#Completed#Planned\line }{\b In this context, \ldblquote #\rdblquote  represents the standard delimiter.  See Standard Delimiter at the end of this document.}{
+\par    15  RLNOTE      Memo          10\tab Task Memo              
+\par    16  KEYWORDS    Memo          10\tab Task Keywords              
+\par 
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {\page Standard Delimiter
+\par }\pard\plain \s17\keep\widctlpar\adjustright \f2\fs16 {In several fields, text elements are concatenated for efficiency.  The delimiting string varies according to the version of the data set in question.
+\par }\pard \s17\fi-2880\li3600\keep\widctlpar\adjustright {Prior to v2.0, the delimiter is CHR(255).
+\par In v2.0 and after, the delimiter is CHR(36)+CHR(33)+CHR(38)  (or \ldblquote $!&\rdblquote )
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Surety
+\par }\pard\plain \widctlpar\adjustright \fs20 {Surety fields may contain character values of 0, 1, 2, 3 (low to high surety), or a minus sign (-) to represent negative surety. \ldblquote Max surety\rdblquote 
+ fields are the highest surety in the appropriate category from all citations for that record.
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Dates
+\par }\pard\plain \widctlpar\adjustright \fs20 {Date fields contain a structured value as follows:
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {\ul 
+\par Irregular Dates
+\par }\pard \s17\fi-270\li270\keep\widctlpar\adjustright {\tab Position  
+\par }\pard \s17\fi-1440\li1440\keep\widctlpar\adjustright {     1\tab \ldblquote 0\rdblquote 
+\par     2-30\tab Irregular Date Value
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {\ul 
+\par Regular Dates
+\par }\pard \s17\fi-270\li270\keep\widctlpar\adjustright {\tab Position
+\par }\pard \s17\fi-1440\li1440\keep\widctlpar\adjustright {     1\tab \ldblquote 1\rdblquote 
+\par     2-9\tab YYYYMMDD of date 1
+\par      10\tab \ldblquote 0\rdblquote  = Not Old Style
+\par \tab \ldblquote 1\rdblquote  = Old Style
+\par }\pard \s17\fi-3600\li3600\keep\widctlpar\adjustright {     11        }{\ul v3.0 and prior}{      }{\ul v3.5 and after
+\par }\pard \s17\fi240\li1200\keep\widctlpar\adjustright {\ldblquote 1\rdblquote  = Before\tab \tab \ldblquote 0\rdblquote =Before
+\par }\pard \s17\fi-1440\li1440\keep\widctlpar\adjustright {\tab \ldblquote 2\rdblquote  = Circa\tab \tab \ldblquote 1\rdblquote =Say
+\par \tab \ldblquote 3\rdblquote  = Exact\tab \tab \ldblquote 2\rdblquote =Circa
+\par \tab \ldblquote 4\rdblquote  = After\tab \tab \ldblquote 3\rdblquote =Exact
+\par \tab \ldblquote 5\rdblquote  = Between\tab \tab \ldblquote 4\rdblquote =After
+\par \tab \ldblquote 6\rdblquote  = Or\tab \tab \ldblquote 5\rdblquote =Between
+\par \tab \tab \tab \tab \ldblquote 6\rdblquote =Or
+\par \tab \tab \tab \tab \ldblquote 7\rdblquote =From...to
+\par   If preceding position = 1,2,3 or 4
+\par     12-20\tab \ldblquote 000000000\rdblquote 
+\par   else
+\par     12-19\tab YYYYMMDD of date 2
+\par      20\tab \ldblquote 0\rdblquote  = Not Old Style date 2
+\par \tab \ldblquote 1\rdblquote  = Old Style date 2
+\par   endif
+\par 
+\par      21\tab \ldblquote 0\rdblquote  = blank
+\par \tab \ldblquote 1\rdblquote  = question mark
+\par     22-30       (reserved)
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {\ul Date Examples:
+\par }{
+\par   \ldblquote 0Third Monday in January\rdblquote   equals  \ldblquote Third Monday in January\rdblquote 
+\par   \ldblquote 119610924000000000000   \rdblquote   equals  \ldblquote Before 09 Sep 1961\rdblquote 
+\par   \ldblquote 117120100130000000000   \rdblquote   equals  \ldblquote Jan 1712/13\rdblquote 
+\par   \ldblquote 119420000051943000000   \rdblquote   equals  \ldblquote Between 1942 and 1943\rdblquote 
+\par   \ldblquote 100000000030000000000   \rdblquote   equals  (empty date)
+\par }\pard\plain \widctlpar\adjustright \fs20 {
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Version Control File (_.VER or .TMG)
+\par }\pard\plain \widctlpar\adjustright \fs20 {
+Each data set includes exactly one Version Control File. This is a plain text file containing evidence of the last version update which was applied to that data set. This file is used by TMG to determine whether any updates are pending.
+\par 
+\par The Version Control File should not be edited or changed. If it is missing entirely, the data set will not be opened or updated.
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Documentation File (_.DOC)
+\par }\pard\plain \widctlpar\adjustright \fs20 {The data set Documentation File is a plain text file which describes the contents, them
+e, author, or other information about the data set.  It is created if and only if the user accesses the Memo feature on the data-set list. This file may be created or edited by any text editor.  The first line of the file is displayed on the data-set list
+ as a means of identifying the data set.
+\par }\pard\plain \s4\sb120\keep\keepn\widctlpar\outlinelevel3\adjustright \b\f1 {Memory Variable File (_.MEM)
+\par }\pard\plain \widctlpar\adjustright \fs20 {The data set Memory Variable File contains user-defined characteristics about the data set.  The file conforms to the conventions set forth by Foxpro 2.5 for the storage of memory variables.  
+\par The following memory variables are saved in this file.  All variables are declared public:
+\par }{\fs16 
+\par }\pard\plain \s17\fi-3600\li3600\keep\widctlpar\adjustright \f2\fs16 {\ul Variable    Type Description                          Example
+\par }{M_FVALPNO     N  Last ID Number Viewed                  17
+\par M_FVALDLAS    N  Last View Viewed                        1
+\par                     1=Person View
+\par                     2=Family View
+\par                     3=Tree View
+\par M_FVAL1       C  List of possible values for           \ldblquote ?NY\rdblquote 
+\par                  user-defined Flag #1
+\par            or L  No such flag                           .f.
+\par M_FVAL2          (same as above, flag #2 )
+\par M_FVAL3          (same as above, flag #3 )
+\par M_FVAL4          (same as above, flag #4 )
+\par M_FVAL5          (same as above, flag #5 )
+\par M_FVAL6          (same as above, flag #6 )
+\par M_FVAL7          (same as above, flag #7 )
+\par M_FVAL8          (same as above, flag #8 )
+\par M_FVAL9          (same as above, flag #9 )
+\par M_FVAL10         (same as above, flag #10)
+\par M_FVAL11         ...and so on (}{\b v2.0 and later}{)
+\par M_FVALDF      N  Date Display Format                     1
+\par                  also used for interpreting
+\par                  ambiguous dates.
+\par                     1= mm/dd/yyyy
+\par                     2= yyyy.mm.dd
+\par                     3= dd/mm/yyyy
+\par                     4= dd.mm.yyyy
+\par                     5= dd-mm-yyyy
+\par                     6= Mmm dd yyyy
+\par                     7= MMM dd yyyy
+\par                     8= dd Mmm yyyy
+\par                     9= dd MMM yyyy
+\par                    10= (reserved)
+\par M_FVALACC     C  Accent condition                \ldblquote ACC.CLERGY=\ldblquote Y\rdblquote \rdblquote 
+\par                  File alias must be \ldblquote ACC.\rdblquote 
+\par M_FVALLAST    N  (not currently used)                    1                         
+\par M_FVALBKS     N  Bookmark screen                         1
+\par                     1=Person View
+\par                     2=Family View
+\par                     3=Tree View
+\par M_FVALBKP     N  Bookmark ID Number                     21
+\par M_FVALCOLL    C  Collation Sequence                  \ldblquote MACHINE\rdblquote 
+\par }\pard\plain \widctlpar\adjustright \fs20 {\f2\fs16 \tab \tab \tab Any legal SET COLLATE TO value for Foxpro}{
+\par }}
