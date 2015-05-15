@@ -1,0 +1,5 @@
+The official version of tmg2gramps does not work with well with TMG v8 databases, because of changed relation types.
+
+This can be corrected with a modified tmg2gramps.pl file, which can be downloaded here. 
+
+To apply this upgrade, you must first unpack the official download, and then overwrite the tmg2gramps.pl file with the version above.
