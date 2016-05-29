@@ -13,7 +13,7 @@ Intended to read a TMG [version 6] database and output most of its data as a Gra
 Usage notes:
 * https://gramps-project.org/wiki/index.php?title=Import_from_another_genealogy_program#The_Master_Genealogist_.28TMG.29
 
-The directories:
+Modifed versions of the script to use with TMG v8 and v9 databases are contained in the following directories:
 * tmg2gramps-v8
 * tmg2gramps-v9
-Contain modifed versions of the script to use with TMG v8 and v9 databases.
+
