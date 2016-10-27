@@ -8,6 +8,6 @@ To apply this upgrade, you must first unpack the official download, and then ove
 
 For additional information see:
 
-http://homepage.ntlworld.com/hamamelis/linux/tmg2gramps.htm
+http://www.rhus.org.uk/linux/tmg2gramps.htm
 
-http://homepage.ntlworld.com/hamamelis/linux/tmg2gramps-v8_altered_by_ian.txt
+http://www.rhus.org.uk/linux/tmg2gramps-v8_altered_by_ian.txt
