@@ -30,4 +30,4 @@ See also: https://github.com/sam-m888/tmg2gramps for tmg2gramps-v8
 
 
 Mentioned:
-http://homepage.ntlworld.com/hamamelis/linux/tmg2gramps.htm
+http://www.rhus.org.uk/linux/tmg2gramps.htm
